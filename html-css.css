@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url(clock.jpg);
+    color: #ffffff;
+}
+
+.clock {
+    text-align: center;
+}
+
+.time {
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.date {
+    font-size: 1.5em;
+}
+
